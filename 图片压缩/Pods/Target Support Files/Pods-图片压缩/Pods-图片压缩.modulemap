@@ -1,0 +1,6 @@
+framework module Pods_____ {
+  umbrella header "Pods-图片压缩-umbrella.h"
+
+  export *
+  module * { export * }
+}
